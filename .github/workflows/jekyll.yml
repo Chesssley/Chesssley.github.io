@@ -46,7 +46,7 @@ jobs:
       - name: SetNode Install
         run: npm i
       - name: Setup Pages
-        id: pages
+        id: pages222
         uses: actions/configure-pages@v5
       - name: Setup Pages
         id: pages
